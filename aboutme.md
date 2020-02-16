@@ -7,9 +7,9 @@ subtitle:
 ## Howl [MyeongSic You]
 - Incheon Songdo. South Korea.
 - Jr. **Android, iOS, NODEJS** Developer
-- Worked in [APPlab]
+- Worked in APPlab
 - Worked in [SQISoft](http://www.sqisoft.com)
-- Working in [Howlab]
+- Working in Howlab
 
 ## Links
 - Email : you6878@icloud.com
